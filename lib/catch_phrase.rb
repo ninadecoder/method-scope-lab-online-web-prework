@@ -1,3 +1,3 @@
 def catch_phrase(phrase)
-  puts "Hello #{phrase}"
+  puts "Hello"
 end
